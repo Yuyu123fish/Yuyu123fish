@@ -9,7 +9,7 @@
 - 🤖 关注方向：AI Agent、RAG、大模型应用开发
 - 🌱 正在学习：Python、LangChain、React、FastAPI
 - 🧠 持续进行算法训练和项目实践
-- 📚 正在维护个人技术笔记仓库（笔记转移中）：`yuyu-notes`
+- 📚 正在维护个人技术笔记仓库（笔记转移中）：`yuyu-notes`:https://github.com/Yuyu123fish/yuyu-notes
 
 > 当前主线是 Java 后端开发，同时正在学习 Python、LangChain 和 React，用于构建 AI Native 全栈应用。
 
@@ -51,20 +51,7 @@
 
 ## 📚 学习笔记
 
-我会把部分学习笔记整理到：
-
-- `yuyu-notes`
-
-内容包括：
-
-- 开发
-- 算法
-- 计算机基础
-- (技术书籍与博客)阅读笔记
-- 项目
-- 面试
-- 知识卡片
-- 复盘
+- `yuyu-notes`:https://github.com/Yuyu123fish/yuyu-notes
 
 ## 📫 联系我
 
