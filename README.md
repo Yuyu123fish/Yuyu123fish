@@ -4,7 +4,7 @@
 
 ## 🚀 关于我
 
-- 🎓 吉林大学大二学生
+- 🎓 吉林大学大三学生
 - 💻 主方向：Java 后端开发
 - 🤖 关注方向：AI Agent、RAG、大模型应用开发
 - 🌱 正在学习：Python、LangChain、React、FastAPI
