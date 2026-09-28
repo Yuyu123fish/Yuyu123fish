@@ -1,17 +1,13 @@
-# Hi，我是 Yuyu/Fish 👋
+# Hi，我是 Yuyu / Fish 👋
 
-我是一名大二学生，当前主要方向是 **Java 后端开发**，同时在学习和实践 **AI Agent / RAG / LangChain / Python / React** 等 AI Native 应用开发相关技术。
+**Backend Development Intern @ JD.com**  
+**Java Backend · AI Agents · Full-stack Development**
 
-## 🚀 关于我
+我是吉林大学的本科生（2028 届），目前在 **京东** 担任 **后端开发实习生**。
 
-- 🎓 吉林大学大三学生
-- 💻 主方向：Java 后端开发
-- 🤖 关注方向：AI Agent、RAG、大模型应用开发
-- 🌱 正在学习：Python、LangChain、React、FastAPI
-- 🧠 持续进行算法训练和项目实践
-- 📚 正在维护个人技术笔记仓库（笔记转移中）：`yuyu-notes`:https://github.com/Yuyu123fish/yuyu-notes
+主要方向是 **Java 后端与 AI Agent 应用开发**，也在持续学习和实践 **TypeScript / React / Next.js** 全栈开发。
 
-> 当前主线是 Java 后端开发，同时正在学习 Python、LangChain 和 React，用于构建 AI Native 全栈应用。
+喜欢研究 AI 和开发工具，也喜欢动手做一些自己真正会用的东西。
 
 ## 💻 Tech Stack
 
@@ -26,33 +22,27 @@
 ### 🧩 Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JVM](https://img.shields.io/badge/JVM-ED8B00?style=for-the-badge)
-![JUC](https://img.shields.io/badge/JUC-ED8B00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### 🤖 Agent / AI Native
 
 ![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-334155?style=for-the-badge)
+![AgentScope](https://img.shields.io/badge/AgentScope-0F766E?style=for-the-badge)
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-Learning-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## 📚 学习笔记
+## 🌱 Currently Exploring
 
-- `yuyu-notes`:https://github.com/Yuyu123fish/yuyu-notes
+持续探索 **Agent 工程化** 与 **全栈开发**，也在补充 **C++** 和 **机器学习基础**。
 
-## 📫 联系我
-
-- E-mail：y1990461715@163.com
